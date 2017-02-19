@@ -1,1 +1,5 @@
-Azii-İTClub Csharp kod nümunələri
+Azii-İTClub.
+
+Software Development Fundamentals qrupu
+
+Csharp kod nümunələri
