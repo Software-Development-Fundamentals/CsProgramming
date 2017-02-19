@@ -1,1 +1,0 @@
-Csharp Proqramlaşdırma ev tapşırıqları
