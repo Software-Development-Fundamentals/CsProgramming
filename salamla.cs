@@ -8,10 +8,15 @@ class Program
 {
     static void Main()
     {
+        
         Console.Write("Adinizi daxil edin: "); //konsola "Adinizi daxil edin:" sətrini yaz.
 
 
-        string istifadecinin_adi = Console.ReadLine(); //konsoldan istifadəçinin adını oxu və @istifadecinin_adi dəyişəninə mənimsət.
+        /*
+            konsoldan istifadəçinin adını oxu və 
+            string tipli @istifadecinin_adi dəyişəninə mənimsət.
+        */
+        string istifadecinin_adi = Console.ReadLine();
 
 
         Console.WriteLine("Salam, " + istifadecinin_adi); //istifadəçinin adını konsola yaz.
