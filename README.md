@@ -1,1 +1,1 @@
-# CsProgramming
+Csharp Proqramlaşdırma ev tapşırıqları
