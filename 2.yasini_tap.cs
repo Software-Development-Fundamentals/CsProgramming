@@ -1,5 +1,5 @@
 /*
-    İstifadəçinin yaşını hesablayan proqram.
+    İstifadəçinin təvəllüdünə görə yaşını hesablayan proqram.
 */
 
 
