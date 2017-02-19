@@ -1,5 +1,5 @@
 /*
-    İki ədəd arasından ən böyük olanı tapan proqram proqram.
+    İki ədəd arasından ən böyük olanı tapan proqram.
 */
 
 using System;
