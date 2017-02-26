@@ -9,8 +9,8 @@ class Program
 {
     static void Main()
     {
-        byte yas = 18; // istifadəçinin yaşı
-        float boy = 1.70f; //istifadəçinin boyu
+        byte yas = 18; // iş axtaranın yaşı
+        float boy = 1.70f; //iş axtaranın boyu
 
 
         /*
