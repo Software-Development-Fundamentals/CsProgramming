@@ -1,5 +1,7 @@
 /*
     Üç ədəd arasından ən böyük olanı tapan proqram.
+    
+    Məqsəd: If-else şərt strukturunun mənimsənməyi
 */
 
 using System;
