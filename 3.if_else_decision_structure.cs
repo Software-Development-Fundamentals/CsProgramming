@@ -1,5 +1,7 @@
 /*
     İki ədəd arasından ən böyük olanı tapan proqram.
+    
+    Məqsəd: if-else şərt strukturunun mənimsənməyi
 */
 
 using System;
