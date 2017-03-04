@@ -1,5 +1,7 @@
 /*
     İstifadəçinin təvəllüdünə görə yaşını hesablayan proqram.
+   
+    Məqsəd: Giriş/Çıxış (İnput/Output) terminlərinin mənimsənməyi
 */
 
 
