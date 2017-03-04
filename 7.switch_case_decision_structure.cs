@@ -2,7 +2,7 @@
     Həftənin gününə görə iş yoxsa istirahət günü olduğunu
     təyin edən proqram.
 
-    Məqsəd: switch/case şərt strukturunun mənimsənməsidir. 
+    Məqsəd: Switch-Case şərt strukturunun mənimsənməsidir. 
 */
 
 using System;
