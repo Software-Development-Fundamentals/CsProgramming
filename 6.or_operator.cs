@@ -1,6 +1,8 @@
 /*
     İş axtaranın parametrlərinə (yaş və boy) görə
     mühafizə işinə qəbul proqramı
+    
+    Məqsəd: VƏYA (||) operatorunun mənimsənməyidir.
 */
 
 using System;
