@@ -1,6 +1,6 @@
 /*
 	Ədədin kvadratını hesablayan proqram
-	Məqsəd: Try-Catch-Finally -nin mənimsənməsi.
+	Məqsəd: Try-Catch -in mənimsənməsi.
 */
 
 
@@ -26,9 +26,7 @@ class Program
 		{
 			Console.WriteLine("Zehmet olmasa eded daxil edin");
 		}
-		finally
-		{
-			Console.WriteLine("Netice: " + result);
-		}
+
+		Console.WriteLine("Netice: " + result);
 	}
 }
