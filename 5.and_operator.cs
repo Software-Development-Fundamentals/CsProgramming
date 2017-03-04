@@ -1,6 +1,7 @@
 /*
-    İş axtaranın parametrlərinə (yaş və boy) görə
-    mühafizə işinə qəbul proqramı
+    İş axtaranın parametrlərinə (yaş və boy) görə mühafizə işinə qəbul proqramı
+    
+    Məqsəd: VƏ (&&) operatorunun mənimsənməyidir
 */
 
 using System;
