@@ -19,13 +19,15 @@ class Program
         z = b - a;
 
 
-        //3) %. bölmədən alınan qalığı qaytarır.
+        //3) %. bölmədən alınan qalığı(kəsr hissəni) qaytarır.
         /*
-            Məsələn, z = 6 % 5 yazdıqda z = 2 olur, çünki,
-            6 / 5 = 1.2 yəni burada 1 tam hissə, 2 isə qalıb hissədir.
-            % operatoruda bölmədədn alınan qalığı yəni 2-ni qaytarır. 
+            Məsələn, z = 7 % 5 yazdıqda z = 2 olur, çünki, nəticədə bizə qalıq (kəsr hissə) qayıdır.
+            7 % 5 => bir tam beşdən iki => qalıqda (kəsr hissədə) 2 alınır. 
+            % operatoruda alınan qalığı yəni 2-ni qaytarır. 
         */
-        z = b % a; // z = b % a = 6 % 5 = 2
+        a  = 5;
+        b = 7;
+        z = b % a; // z = b % a = 7 % 5 = 2
 
 
         //4) >
