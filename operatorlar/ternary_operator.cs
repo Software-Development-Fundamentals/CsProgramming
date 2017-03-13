@@ -18,7 +18,7 @@ class Program
         Console.WriteLine(s);
 
 
-        // və ya
+        // və ya aşağıdakı kimi
 
 
         Console.WriteLine(sert ? "sert_dogrudur" : "sert_yanlisdir");
