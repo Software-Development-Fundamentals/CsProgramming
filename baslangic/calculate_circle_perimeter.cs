@@ -1,6 +1,5 @@
-﻿/*
-	 İstidəçinin daxil etdiyi ədədin vurma cədvəlini konsola yazan proqram.
-	 Məqsəd: for dövr strukturunun mənimsənməsi.
+/*
+	 İstifadəçinin daxil etdiyinin radiusa uyğun çevrənin perimetrini hesablayan proqram.
 */
 
 using System;
@@ -13,8 +12,8 @@ class Program
 		double perimeter = 0;
 		string input = null;
 		const double pi = 3.14;	//PI ədədinin qiyməti sabitdir. 
-								//C#-da qiyməti sabit dəyişənləri göstərmək üçün 
-								//dəyişənin qarşısında const yazırıq.
+					//C#-da qiyməti sabit dəyişənləri göstərmək üçün 
+					//dəyişənin qarşısında const yazırıq.
 
 
 		Console.Write("Cevrenin radiusunu daxil et: ");
