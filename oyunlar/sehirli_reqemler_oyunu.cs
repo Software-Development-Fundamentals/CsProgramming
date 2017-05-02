@@ -129,8 +129,8 @@ class Program
         int newCompNumber = 0;
 
         newCompNumber = compNumber == 0 ? CreateMagicNumber() : CreateMagicNumber(userNumber);
-
-        WriteOutput($"Men: {newCompNumber}\n", ConsoleColor.Yellow);
+        string output = string.Format("Men: {0}\n", newCompNumber);
+        WriteOutput(output, ConsoleColor.Yellow);
 
         return newCompNumber;
     }
